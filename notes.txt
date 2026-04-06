@@ -1,0 +1,5 @@
+Created: April 6th, 2026
+Author: Tran-Quang-Tuan Vo
+
+1. To train HiFi-GAN
+nohup ./scripts/queue_submit.sh python train.py --config config_v1.json > sessions/hifigan_v1.log 2>&1 &
