@@ -210,6 +210,7 @@ pretrained-hifi-gan.zip
 
 # Logs
 sessions
+cp_hifigan
 
 # Dataset
 LJSpeech-1.1
